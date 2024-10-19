@@ -41,6 +41,8 @@ predictedCO2 = regr.predict([[3300, 1300]])
 print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 
 
+
+
 ```
 ## Output:
 ![image](https://github.com/user-attachments/assets/d59ec296-ebe5-4c59-9620-4b880458762a)
