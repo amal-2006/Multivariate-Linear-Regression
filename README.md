@@ -1,4 +1,4 @@
-## DATE;
+## DATE:
 ## Ex No 10 - Implementation of Multivariate Linear Regression
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
@@ -39,8 +39,6 @@ print('Coefficients:', regr.coef_)
 print('Intercept:',regr.intercept_)
 predictedCO2 = regr.predict([[3300, 1300]])
 print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
-
-
 
 
 ```
